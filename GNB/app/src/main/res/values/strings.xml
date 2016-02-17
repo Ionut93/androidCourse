@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GNB</string>
+    <string name="rates">Rates</string>
+    <string name="total">Total in Euro</string>
+</resources>
